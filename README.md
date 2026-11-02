@@ -1,89 +1,135 @@
-# Hi, I'm AYMAN 👋
+# Hi, I'm AYWAN 👋
 
-### Independent Developer | AI & Engineering Software
+### Independent Developer | AI Solutions | Software & Engineering
 
-I combine practical engineering experience with software development and artificial intelligence to build useful technical solutions.
+I'm an independent developer and technical professional with over 10 years of experience in designing and implementing real-world technical systems.
 
-## About Me
+My background combines engineering, programming, artificial intelligence, and practical problem-solving. I'm passionate about building useful software solutions that connect AI with real-world engineering challenges.
 
-- Independent professional with 10+ years of experience in technical systems design and implementation.
-- Background in CCTV surveillance, intrusion detection, and fire alarm systems.
-- Interested in developing AI-powered engineering applications and offline intelligent tools.
-- Experienced in technical analysis, problem-solving, and programming.
-- Focused on building practical solutions that address real-world engineering challenges.
-
-## Technical Skills & Interests
-
-- **Programming:** Python, C, C++, Assembly, MQL5
-- **Embedded Systems:** Arduino
-- **Artificial Intelligence:** Local AI, LLMs, Ollama, AI applications
-- **AI Development:** Voice AI, natural language processing, AI-assisted automation
-- **Engineering:** Technical systems design, circuit analysis, schematic understanding
-- **Advanced Analysis:** Graph-based tracing, multi-board connectivity, engineering diagnostics
-- **Trading Systems:** Algorithmic trading, MetaTrader 5, technical analysis
-
-## Featured Projects
-
-### 1. BOARD-AI
-[View Repository](https://github.com/AYWAN1/BOARD-AI)
-
-**Offline AI-Powered Electronic Engineering & Board Analysis System**
-
-An advanced offline AI engineering platform designed to assist with:
-
-- Altium Designer schematic and engineering document analysis.
-- Electronic circuit and schematic understanding.
-- Signal-path tracing across components and interconnected boards.
-- Multi-board connectivity and relationship analysis.
-- Engineering document intelligence and information extraction.
-- AI-assisted fault investigation and troubleshooting.
-- Local AI reasoning without requiring an internet connection.
-
-**Technologies:** Python, Ollama, LLMs, Streamlit, RAG, Graph-Based Analysis, Altium Designer.
-
-**Status:** Under active development.
-
-### 2. AMJ NASDAQ Trading Bot
-
-**Automated Trading System | MQL5 & Python**
-
-An algorithmic trading project designed for MetaTrader 5, combining trading automation, technical indicators, and AI-assisted signal analysis.
-
-Key development areas:
-
-- MQL5 and Python integration.
-- MetaTrader 5 connectivity.
-- EMA-based trading strategies.
-- ATR-based volatility and risk analysis.
-- AI Shadow signal monitoring and evaluation.
-- AI-assisted trading decision support.
-
-**Status:** Experimental and demo-focused development.
-
-### 3. AYWAN Voice AI
-
-**AI-Powered Voice Generation & Processing**
-
-A voice AI development project focused on generating and improving natural Lebanese Arabic speech using recorded voice samples.
-
-Key development areas:
-
-- Python-based voice processing.
-- Lebanese Arabic speech generation.
-- Voice sample processing and integration.
-- AI-powered speech generation.
-- Natural speech quality improvement.
-
-**Status:** Under development.
-
-## Current Focus
-
-Building practical software solutions that connect artificial intelligence, programming, automation, and real-world engineering challenges.
-
-## Future Development
-
-Continuously exploring advanced AI applications, intelligent engineering systems, offline AI solutions, and algorithmic software development.
+I focus on developing practical tools, offline AI applications, intelligent automation, and software projects.
 
 ---
 
-*Always learning, building, testing, and improving.*
+## 🧠 About Me
+
+- Independent technical professional with 10+ years of hands-on experience.
+- Experienced in CCTV surveillance, intrusion detection, and fire alarm systems.
+- Interested in AI development, local LLMs, software engineering, and automation.
+- Experienced in technical analysis, troubleshooting, and identifying system problems.
+- Focused on building practical AI-powered applications and engineering tools.
+- Always exploring new technologies and turning ideas into working projects.
+
+---
+
+## 🛠️ Technical Skills
+
+**Programming**
+- Python
+- C / C++
+- Assembly
+- MQL5
+
+**Embedded Systems**
+- Arduino
+
+**Artificial Intelligence**
+- Local AI & Large Language Models (LLMs)
+- Ollama
+- AI Application Development
+- Retrieval-Augmented Generation (RAG)
+- Voice AI and Speech Processing
+- AI-Assisted Automation
+
+**Engineering & Technical Analysis**
+- Electronic Circuit and Schematic Analysis
+- Technical Documentation
+- System Design and Troubleshooting
+- Connectivity and Signal-Path Analysis
+- Engineering Problem-Solving
+
+**Trading Technology**
+- MetaTrader 5
+- Algorithmic Trading
+- Technical Indicators
+- Python and MQL5 Integration
+
+---
+
+## 🚀 Featured Projects
+
+### 1. BOARD-AI
+**Offline AI Assistant for Electronic Board Analysis**
+
+🔗 [View Repository](https://github.com/AYWAN1/BOARD-AI)
+
+An AI-powered engineering assistant designed to help analyze electronic boards, technical documents, and circuit schematics locally, without requiring an internet connection.
+
+**Project Goals & Development Areas:**
+- AI-assisted understanding of electronic schematics and technical documents.
+- Analysis of circuit components and their relationships.
+- Signal-path and connectivity tracing.
+- Exploring multi-board connectivity analysis.
+- Supporting engineering workflows related to Altium Designer.
+- Local AI processing using LLMs and document retrieval techniques.
+- Assisting with technical investigation and troubleshooting.
+
+**Technologies:** Python, Ollama, LLMs, Streamlit, RAG, Graph-Based Analysis.
+
+**Status:** Actively under development.
+
+---
+
+### 2. AMJ NASDAQ Trading Bot
+**Automated Trading System | MQL5 & Python**
+
+An experimental algorithmic trading project focused on combining automated trading strategies with additional AI-assisted analysis.
+
+**Development Areas:**
+- MetaTrader 5 integration.
+- MQL5-based trading logic.
+- Python-based analysis and supporting tools.
+- EMA and ATR technical indicators.
+- AI Shadow monitoring and independent signal evaluation.
+- AI-assisted decision support and strategy analysis.
+
+**Status:** Experimental development and testing. Not presented as a validated live-trading system.
+
+---
+
+### 3. AYWAN Voice AI
+**Voice Generation and Speech Processing**
+
+A voice AI project focused on generating and improving natural-sounding speech, with particular attention to Lebanese Arabic pronunciation and dialect.
+
+**Development Areas:**
+- Voice generation using recorded voice samples.
+- Lebanese Arabic speech generation.
+- Python-based voice processing.
+- Testing pronunciation and speech quality.
+- Improving naturalness and dialect accuracy.
+
+**Status:** Under development.
+
+---
+
+## 🎯 Current Focus
+
+- Developing practical AI-powered software.
+- Building offline AI applications.
+- Exploring LLMs, RAG, and intelligent document analysis.
+- Combining programming with engineering experience.
+- Improving software quality through testing and experimentation.
+
+---
+
+## 🌱 Future Development
+
+My goal is to build reliable, useful, and commercially valuable software solutions that solve real problems.
+
+I'm particularly interested in AI applications, engineering tools, intelligent automation, and collaboration on innovative software projects.
+
+---
+
+### 💡 Build. Test. Analyze. Improve.
+
+*Turning technical ideas into practical solutions.*
