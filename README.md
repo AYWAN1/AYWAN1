@@ -1,135 +1,169 @@
 # Hi, I'm AYWAN 👋
 
-### Independent Developer | AI Solutions | Software & Engineering
+### Independent Developer | AI Solutions | Software Engineering | Electronics
 
-I'm an independent developer and technical professional with over 10 years of experience in designing and implementing real-world technical systems.
+I build practical software and AI-powered solutions that connect intelligent technologies with real-world engineering challenges.
 
-My background combines engineering, programming, artificial intelligence, and practical problem-solving. I'm passionate about building useful software solutions that connect AI with real-world engineering challenges.
+With over 10 years of hands-on experience in technical systems, electronics, troubleshooting, and system implementation, I bring an engineering-oriented approach to software development and problem-solving.
 
-I focus on developing practical tools, offline AI applications, intelligent automation, and software projects.
-
----
-
-## 🧠 About Me
-
-- Independent technical professional with 10+ years of hands-on experience.
-- Experienced in CCTV surveillance, intrusion detection, and fire alarm systems.
-- Interested in AI development, local LLMs, software engineering, and automation.
-- Experienced in technical analysis, troubleshooting, and identifying system problems.
-- Focused on building practical AI-powered applications and engineering tools.
-- Always exploring new technologies and turning ideas into working projects.
+My work combines software engineering, artificial intelligence, automation, and technical analysis to create tools designed to solve practical problems.
 
 ---
 
-## 🛠️ Technical Skills
+## 🚀 About Me
 
-**Programming**
-- Python
-- C / C++
-- Assembly
-- MQL5
+I'm an independent developer with a background in technical engineering and a growing focus on AI-driven software solutions.
 
-**Embedded Systems**
-- Arduino
+My interests and development work include:
 
-**Artificial Intelligence**
-- Local AI & Large Language Models (LLMs)
-- Ollama
-- AI Application Development
-- Retrieval-Augmented Generation (RAG)
-- Voice AI and Speech Processing
-- AI-Assisted Automation
+- Artificial Intelligence and local LLM applications.
+- Python-based software development and automation.
+- Electronics engineering and technical diagnostics.
+- C, C++, Assembly, and embedded systems.
+- Intelligent analysis of technical documents and engineering data.
+- Algorithmic trading systems and automated strategies.
+- Speech technologies, voice generation, and language processing.
 
-**Engineering & Technical Analysis**
-- Electronic Circuit and Schematic Analysis
-- Technical Documentation
-- System Design and Troubleshooting
-- Connectivity and Signal-Path Analysis
-- Engineering Problem-Solving
-
-**Trading Technology**
-- MetaTrader 5
-- Algorithmic Trading
-- Technical Indicators
-- Python and MQL5 Integration
+I enjoy exploring complex technical problems, understanding how systems work, and transforming ideas into practical software applications.
 
 ---
 
-## 🚀 Featured Projects
+## 🧠 Featured Projects
 
 ### 1. BOARD-AI
-**Offline AI Assistant for Electronic Board Analysis**
+**Offline AI-Powered Engineering Analysis & Technical Intelligence**
 
-🔗 [View Repository](https://github.com/AYWAN1/BOARD-AI)
+[![BOARD-AI](https://img.shields.io/badge/GitHub-BOARD--AI-181717?style=for-the-badge&logo=github)](https://github.com/AYWAN1/BOARD-AI)
 
-An AI-powered engineering assistant designed to help analyze electronic boards, technical documents, and circuit schematics locally, without requiring an internet connection.
+BOARD-AI is an offline AI-powered engineering application designed to assist with electronic board analysis, schematic understanding, technical documentation, and intelligent troubleshooting.
 
-**Project Goals & Development Areas:**
-- AI-assisted understanding of electronic schematics and technical documents.
-- Analysis of circuit components and their relationships.
-- Signal-path and connectivity tracing.
-- Exploring multi-board connectivity analysis.
-- Supporting engineering workflows related to Altium Designer.
-- Local AI processing using LLMs and document retrieval techniques.
-- Assisting with technical investigation and troubleshooting.
+The project explores the integration of local Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and structured engineering analysis within a unified environment.
 
-**Technologies:** Python, Ollama, LLMs, Streamlit, RAG, Graph-Based Analysis.
+#### Core Engineering Areas
 
-**Status:** Actively under development.
+- **Electronic Schematic Intelligence:** Understanding electronic schematics, component relationships, and circuit structures.
+- **Signal Path Analysis:** Investigating signal paths, connections, and relationships between electronic components.
+- **Multi-Board Analysis:** Exploring connectivity relationships and signal paths across interconnected boards.
+- **AI-Assisted Diagnostics:** Supporting technical investigations and structured troubleshooting.
+- **Technical Documentation Intelligence:** Processing engineering documents and retrieving relevant technical information.
+- **Engineering Reports:** Organizing analysis results into technical explanations and diagnostic reports.
+
+#### Intended Engineering Workflow
+
+1. Engineering data and technical document input.
+2. Information extraction and knowledge organization.
+3. Component and structural relationship analysis.
+4. Connectivity modeling and signal-path investigation.
+5. AI-assisted technical diagnostics.
+6. Structured engineering reports and analysis outputs.
+
+#### Technology Stack
+
+`Python` · `Ollama` · `Qwen` · `RAG` · `Streamlit` · `Graph Analysis` · `Electronics Engineering`
+
+**Core Vision:** Developing an intelligent, offline engineering environment that helps bridge the gap between complex electronic systems and AI-assisted technical investigation.
 
 ---
 
 ### 2. AMJ NASDAQ Trading Bot
-**Automated Trading System | MQL5 & Python**
+**Algorithmic Trading | Automated Strategy Development**
 
-An experimental algorithmic trading project focused on combining automated trading strategies with additional AI-assisted analysis.
+An experimental algorithmic trading system developed to explore automated market analysis, strategy execution, trade management, and risk-control mechanisms.
 
-**Development Areas:**
+The project combines Python-based automation with MetaTrader 5 integration and MQL5 trading logic.
+
+#### Development Areas
+
+- Automated market analysis and trading signals.
 - MetaTrader 5 integration.
-- MQL5-based trading logic.
-- Python-based analysis and supporting tools.
-- EMA and ATR technical indicators.
-- AI Shadow monitoring and independent signal evaluation.
-- AI-assisted decision support and strategy analysis.
+- Trade execution and position management.
+- Risk-management mechanisms.
+- Stop-loss and take-profit logic.
+- Strategy testing and performance evaluation.
+- Continuous improvement of trade exits and execution logic.
 
-**Status:** Experimental development and testing. Not presented as a validated live-trading system.
+#### Technology Stack
+
+`Python` · `MQL5` · `MetaTrader 5` · `Algorithmic Trading`
+
+**Development Focus:** Improving strategy reliability, trade management, and risk controls through structured testing in demo environments.
+
+*This project is experimental and is not presented as a validated or profitable live-trading system.*
 
 ---
 
 ### 3. AYWAN Voice AI
-**Voice Generation and Speech Processing**
+**AI Speech Technology | Text-to-Speech | Speech-to-Text**
 
-A voice AI project focused on generating and improving natural-sounding speech, with particular attention to Lebanese Arabic pronunciation and dialect.
+AYWAN Voice AI is a speech technology project focused on developing personalized voice generation and speech recognition capabilities.
 
-**Development Areas:**
-- Voice generation using recorded voice samples.
-- Lebanese Arabic speech generation.
-- Python-based voice processing.
-- Testing pronunciation and speech quality.
-- Improving naturalness and dialect accuracy.
+The project explores the use of recorded voice samples to generate spoken content while preserving aspects of the speaker's voice characteristics and pronunciation.
 
-**Status:** Under development.
+#### Development Areas
+
+- Personalized voice generation using recorded samples.
+- Text-to-Speech (TTS) processing.
+- Speech-to-Text (STT) capabilities.
+- English and Arabic speech processing.
+- Lebanese Arabic pronunciation and speech generation.
+- Voice sample management and processing.
+- Exploring offline speech-processing capabilities.
+
+#### Technology Stack
+
+`Python` · `AI Speech Processing` · `TTS` · `STT` · `Voice Technologies`
+
+**Project Vision:** Building a flexible speech application that connects personalized voice generation with multilingual speech recognition.
+
+---
+
+## 🛠️ Technical Skills & Interests
+
+| Category | Technologies & Areas |
+|---|---|
+| Programming | Python, C, C++, Assembly |
+| AI & Machine Learning | Local LLMs, Ollama, Qwen, RAG |
+| Software Development | Application Development, Automation |
+| Electronics | Embedded Systems, Arduino, Circuit Analysis |
+| Engineering | Technical Diagnostics, System Analysis |
+| Trading Technology | Python, MQL5, MetaTrader 5 |
+| Speech Technology | TTS, STT, Voice Processing |
+| Technical Systems | CCTV, Intrusion Detection, Fire Alarm Systems |
 
 ---
 
 ## 🎯 Current Focus
 
-- Developing practical AI-powered software.
-- Building offline AI applications.
-- Exploring LLMs, RAG, and intelligent document analysis.
-- Combining programming with engineering experience.
-- Improving software quality through testing and experimentation.
+- Building practical AI-powered applications.
+- Exploring local and offline AI architectures.
+- Combining AI with electronics and engineering analysis.
+- Developing intelligent software tools and automation.
+- Improving software architecture and programming skills.
+- Turning technical concepts into useful, real-world applications.
 
 ---
 
-## 🌱 Future Development
+## 🤝 Collaboration & Opportunities
 
-My goal is to build reliable, useful, and commercially valuable software solutions that solve real problems.
+I'm interested in collaborating with individuals, developers, businesses, and engineering teams working on:
 
-I'm particularly interested in AI applications, engineering tools, intelligent automation, and collaboration on innovative software projects.
+- AI-powered software solutions.
+- Technical and engineering applications.
+- Automation and intelligent tools.
+- Electronics analysis and diagnostic systems.
+- Python-based development projects.
+
+I welcome opportunities to contribute technical knowledge, develop practical solutions, and work on challenging ideas.
 
 ---
 
-### 💡 Build. Test. Analyze. Improve.
+## 📫 Connect With Me
 
-*Turning technical ideas into practical solutions.*
+- **GitHub:** [github.com/AYWAN1](https://github.com/AYWAN1)
+- **Featured Project:** [BOARD-AI](https://github.com/AYWAN1/BOARD-AI)
+
+---
+
+### Building Ideas Into Practical Solutions.
+
+*Engineering mindset. Software development. Artificial intelligence.*
