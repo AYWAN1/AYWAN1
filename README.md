@@ -25,6 +25,7 @@ My interests and development work include:
 - Speech technologies, voice generation, and language processing.
 - Web design and development for business websites.
 - Responsive websites for restaurants, retail stores, and commercial projects.
+
 I enjoy exploring complex technical problems, understanding how systems work, and transforming ideas into practical software applications.
 
 ---
